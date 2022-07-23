@@ -7,7 +7,7 @@ body {
 
 .slide {
   max-width: auto;
-  height: 600px;
+  height: 630px;
   position: relative;
 }
 
@@ -22,10 +22,6 @@ body {
 }
 #TESTIMONI {
   background-color: hsl(217, 100%, 94%);
-}
-
-#HARGA {
-  background-color: #fff;
 }
 
 section {
