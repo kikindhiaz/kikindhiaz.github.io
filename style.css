@@ -2,12 +2,12 @@ body {
   min-height: 2000px;
 }
 .jumbotron {
-  padding-top: 5rem;
+  padding-top: 3rem;
 }
 
 .slide {
   max-width: auto;
-  height: 630px;
+  height: 600px;
   position: relative;
 }
 
