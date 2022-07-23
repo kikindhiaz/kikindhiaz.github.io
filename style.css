@@ -3,12 +3,11 @@ body {
 }
 .jumbotron {
   padding-top: 5rem;
-  background-color: hsl(217, 100%, 94%);
 }
 
 .slide {
   max-width: auto;
-  height: 690px;
+  height: 600px;
   position: relative;
 }
 
@@ -20,8 +19,6 @@ body {
   height: 100%;
 }
 
-.slide1 {
-  background: url(HYDROCELL4.png) no-repeat center;
 }
 #TESTIMONI {
   background-color: hsl(217, 100%, 94%);
